@@ -1,6 +1,12 @@
-# MCTA024 – Somador de Ponto Flutuante em FPGA (DE10-Lite)
+**template-somadorpf-vhdl**
 
-Projeto Prático da disciplina **Sistemas Digitais (MCTA024)** — UFABC.
+# Tutorial: Implementação de Somador Ponto Flutuante na DE10-Lite
+
+**Autores:** Gustavo Prado Quinello, Luan Chaves
+
+**Disciplina:** Sistemas Digitais Q2.20026
+
+**Data:** 10/08/2026
 
 ---
 
